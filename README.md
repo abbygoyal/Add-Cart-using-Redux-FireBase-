@@ -1,10 +1,10 @@
-## React-Expense-Tracker
+## React-Add-To-Cart(Redux & FireBase)
 
-React Expenses Tracker using onState
+React Redux Add to Cart using FireBase as DataBase
 
 ## Live Project Link
 
-[React-Expense-Tracker](https://tracker-expenses-react.netlify.app/)
+[React-Add-To-Cart](https://add-to-cart-redux.netlify.app/)
 
 # How to fork and clone
 
