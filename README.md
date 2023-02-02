@@ -1,6 +1,6 @@
 ## React-Add-To-Cart(Redux & FireBase)
 
-React Redux Add to Cart using FireBase as DataBase
+React Redux Add to Cart using FireBase as DataBase.
 
 ## Live Project Link
 
